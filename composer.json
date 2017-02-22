@@ -1,0 +1,23 @@
+{
+  "name": "ezetech/wp-mailchimp",
+  "description": "WordPress Plugin for MailChimp Integration",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "mailchimp",
+    "ezetech"
+  ],
+  "homepage": "https://eze.tech",
+  "license": "UNLICENSED",
+  "authors": [
+    {
+      "name": "EzeTech",
+      "homepage": "http://eze.tech/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "~1.0"
+  }
+}
